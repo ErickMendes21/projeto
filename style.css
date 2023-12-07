@@ -1,0 +1,56 @@
+header {
+    display: flex;
+    background-color: #7C5E99;  
+    border: 10px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: space-between;
+}
+
+a{
+    display: inline-flex; /*alinhar um do lado do outro*/ 
+    align-items: center;
+    color: white;
+    margin-right: 30px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Fira Code', monospace;
+    font-weight: 500;
+    text-align: right;
+}
+
+
+#button {
+    display: inline-block;
+    background-color: #F25A70;
+    height: 60px; /* line-height e height tem q ser o mesmo px*/
+    line-height: 60px; /*centralizar no sentido vertical */
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 5px 5px 0px 0px #000; /*sombra*/
+    margin-right: 20px;
+}
+
+#button:hover {
+    color: #000;
+}
+
+div {
+    text-align: right;
+}
+
+body {
+    margin: auto;
+}
+
+a:before {
+    content: "";
+    background-color: #F25A70;
+    margin-right: 10px;
+    width: 10px;
+    height: 10px;
+}
