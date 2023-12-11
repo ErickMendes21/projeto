@@ -30,7 +30,6 @@ a{
     text-align: right;
 }
 
-
 #button {
     display: inline-block;
     background-color: #F25A70;
@@ -46,7 +45,7 @@ a{
     color: #000;
 }
 
-div {
+nav {
     text-align: right;
 }
 
@@ -61,6 +60,3 @@ a:before {
     width: 10px;
     height: 10px;
 }
-
-
-
