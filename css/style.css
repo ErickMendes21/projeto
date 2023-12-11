@@ -9,6 +9,13 @@ header {
     padding-top: 10px;
     padding-bottom: 10px;
     justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Press Start 2P';
+    color: white;
 }
 
 a{
@@ -54,3 +61,6 @@ a:before {
     width: 10px;
     height: 10px;
 }
+
+
+
