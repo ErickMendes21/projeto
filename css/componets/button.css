@@ -1,0 +1,16 @@
+.button {
+    display: inline-block;
+    background-color: #F25A70;
+    height: 60px; /*line-height e height tem q ser o mesmo px*/
+    width: 170px;
+    line-height: 60px; /*centralizar no sentido vertical */
+    box-shadow: 5px 5px 0px 0px #000; /*sombra*/
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+.button:hover {
+    color: #000;
+}
