@@ -1,0 +1,33 @@
+.logo-main {  
+    display: inline;  
+    box-shadow: 10px 10px 0px 0px #FFF;
+    margin: 140px 156px 100px 140px;
+    padding: 12px 15px 14px 20px;
+    height: 280px;
+    width: 280px;
+}
+
+.project {  
+    color: #fff;  
+    text-align: center;   
+    margin: auto;
+    font-family: 'Press Start 2P';  
+    font-size: 40px;
+    padding: 50px 560px 50px 560px;
+}
+
+.color {  
+    background-color: #000;  
+}
+
+.logo{  
+    box-shadow: 10px 10px 0px 0px #FFF; 
+    margin: 140px 148px 100px 156px;  
+}
+
+.logo-center {
+    margin: 140px 156px 100px 156px;
+    box-shadow: 10px 10px 0px 0px #FFF;
+    padding: 12px 15px 14px 20px;
+    background-color: #4C5B84;
+}
