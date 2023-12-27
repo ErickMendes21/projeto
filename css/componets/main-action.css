@@ -1,4 +1,4 @@
-.action {
+.main-action {
     display: inline-flex; /*alinhar um do lado do outro*/ 
     align-items: center;
     color: white;
@@ -10,7 +10,7 @@
     text-align: right;
 }
 
-.action::before {
+.main-action::before {
     content: "";
     background-color: #F25A70;
     margin-right: 10px;
