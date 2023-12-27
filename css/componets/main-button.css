@@ -1,4 +1,4 @@
-.button {
+.main-button {
     display: inline-block;
     background-color: #F25A70;
     height: 60px; /*line-height e height tem q ser o mesmo px*/
@@ -11,7 +11,7 @@
     font-size: 25px;
 }
 
-.button:hover {
+.main-button:hover {
     color: #000;
 }
 
