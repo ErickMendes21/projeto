@@ -12,8 +12,13 @@
 }
 
 .title {
+    display: flex;
+    justify-content: center;
     font-family: 'Press Start 2P';
     font-size: 25px;
+    color: #fff;
+    font-size: 40px;
+    margin: 50px;
 }
 
 .number {
