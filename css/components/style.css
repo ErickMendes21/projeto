@@ -6,7 +6,7 @@ body {
     margin: auto;
 }
 
-figure {
+figure, input {
 margin: 0px;
 }
 
