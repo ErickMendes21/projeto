@@ -1,0 +1,15 @@
+.wrapper-card {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    margin: 140px 156px 100px 156px;
+    box-shadow: 10px 10px 0 #fff;
+}
+
+.logo-logoo {
+    margin: 140px 156px 100px 156px;
+    padding: 17px 35px 17px 35px;
+    box-shadow: 10px 10px 0 #fff;
+}

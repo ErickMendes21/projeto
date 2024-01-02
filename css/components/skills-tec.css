@@ -10,13 +10,3 @@
     margin-right: 25px;
     width: 90px;
 }
-
-.skills-tec .right {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-}
-
-.skills-tec .title {
-    margin-bottom: 16px;
-}

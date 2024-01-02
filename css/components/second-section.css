@@ -1,0 +1,11 @@
+.second-section.-bgColor {
+    background-color: #3A4042;
+}
+
+.contatos {
+    display: flex;
+    justify-content: center;
+    font-family: 'Press Start 2P';
+    font-size: 40px;
+    color: #fff;
+}

@@ -1,7 +1,7 @@
 .main-button {
     display: inline-block;
     background-color: #F25A70;
-    height: 60px; /*line-height e height tem q ser o mesmo px*/
+    height: 60px; 
     width: 170px;
     line-height: 60px; /*centralizar no sentido vertical */
     box-shadow: 5px 5px 0px 0px #000; /*sombra*/
@@ -15,3 +15,12 @@
     color: #000;
 }
 
+.left-button {
+    margin: 90px 15px 50px 15px;
+    cursor: pointer;
+}
+
+.right-button {
+    margin: 90px 15px 50px 15px;
+    cursor: pointer;
+}
